@@ -1,5 +1,7 @@
 # Projeto CSC - Centro de Soluções Conectadas
 
+#BISPO TESTE
+
 ![CSC Banner](https://via.placeholder.com/1200x400?text=Centro+de+Solu%C3%A7%C3%B5es+Conectadas)
 
 ## Sobre o Projeto
