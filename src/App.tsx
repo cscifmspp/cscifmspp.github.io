@@ -1,14 +1,16 @@
-import './App.css'
+import "./index.css";
+import Header from "./components/Header"
 
-function App() {
+
+export default function App() {
 
   return (
-    <>
-      <div>
-        <h1> Olá Você está no site do CSC </h1>
-      </div>
-    </>
+    <div className="w-full h-96 flex justify-center items-center font-extrabold text-2xl">
+      {/* <Header /> */}
+      <h1>
+        Em Desenvolvimento
+      </h1>
+    </div>
   )
 }
 
-export default App
